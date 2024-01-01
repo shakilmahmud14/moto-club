@@ -1,0 +1,128 @@
+/*for tablet device*/
+@media screen and (min-width:768px) and (max-width:991px){
+/*	side-navbar area start hare*/
+/*header area responsive start hare*/
+
+/*header area responsive end hare*/
+/*navbar area responsive start hare*/
+
+
+
+/*navbar area responsive start hare*/
+/*features area responsive hare*/
+
+
+/*features area responsive hare*/	
+/*gallery area resposive*/
+
+/*owl carousel responsive*/
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*	For mobile device*/
+
+@media screen and (max-width:767px) {
+
+/*header area responsive start hare*/
+.header-social {
+	display: none;
+}
+.humabar-icon {
+	display: block;
+}
+.left-overly {
+	width: 100%;
+}
+.section-carousel h2 {
+	font-size: 25px;
+}
+/*header area responsive end hare*/
+/*navbar area responsive start hare*/
+.navbar-area {
+	display: none;
+	background: #000;
+	width: 100%;
+	padding-left: 20px;
+}
+.navbar-content {
+	text-align: center;
+	padding: 10px 20px;
+}
+
+/*navbar area responsive start hare*/
+/*features area responsive hare*/
+.feaure-area {
+	padding: 0;
+}
+.feature-content h2 {
+	font-size: 50px;
+}
+/*features area responsive hare*/
+/*carousel area style start hare*/
+.carousel {
+	height: 200px;
+}
+.carousel-text {
+	padding-bottom: 20px;
+}
+
+/*section layer20 area responsive*/
+
+.section-layer20-cnt h3 {
+	font-size: 24px;
+}
+
+/*section product area respnsive start hare*/
+.owl-three .owl-next {
+	top: 15%;
+	right: 0;
+}
+.owl-three  .owl-prev {
+	top: 15%;
+	left: 0;
+}
+/*section product area respnsive end hare*/
+
+/*blog area responsive start hare*/
+
+.blog-content {
+	padding: 50px 20px 50px 50px;
+}
+.layer-img-2 {
+	margin-top: 0px;
+}
+/*blog area style end hare*/
+
+/*newslatter area style start hare*/
+.newslatter-content h2 {
+	font-size: 25px;
+}
+
+/*newslatter responsive end hare*/
+.event {
+	text-align: center;
+	padding-top: 40px;
+}
+.contact-info {
+	padding-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+}
